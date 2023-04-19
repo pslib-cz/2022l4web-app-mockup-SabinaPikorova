@@ -10,3 +10,19 @@ Při spušetění aplikace se uživateli nejprve zobrazí obrazovka s logem apli
 ## Landing page
 Hlavni stránka slouží pro orientaci v aplikaci.
 Největší prostor na ní zaujímájí náhledy na recepty v kategorii Favorites. Pod nimi se nachází další podkategorie s menšími náhledy.
+## Kategorie receptů
+Recepty v jednotlivých kategoriích lze ukládat do Favorites kliknutím na srce v pravém horním rohu jejich náhledového obrázku.
+## Recept
+Stránka každého receptu obsahuje sekce:
+### Ingredients
+### Steps
+### Notes
+### Challenges
+Recept lze editovat po kliknutí na ikonu tužky pod pravým dolním rohem fotografie receptu. Vedle ikony tužky se nachází ikona srdce sloužící pro uložení receptu do Favorites.Vedle ikony srdce leží ikona hodin s časem přípravy receptu. 
+## Challenges
+V sekci Challenges se nachází týdenní a denní výzvy, které může uživateů plnit. Výzvy si může navolit uživatel nebo mohou být vybrány aplikací (speciální pokrmy na např. Velikonoce či Štědrovečerní večeři).
+## Orientační lišta
+Na spodku obrazovky se nachází navigační lišta obsahující odkazy na Landing Page, Searching, New Recipe, Challenges a Favorites.
+## Hamburger Menu
+Hamburger menu se nachází na každé stránce aplikace.
+Obsahuje odkazy do jídelních kategorií, do Favorites a Challenges. Jako navíc obsahuje odkaz do Settings a Sign Out button pro odlášení uživatele z aplikace.
