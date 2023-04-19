@@ -16,9 +16,14 @@ Recepty v jednotlivých kategoriích lze ukládat do Favorites kliknutím na src
 ## Recept
 Stránka každého receptu obsahuje sekce:
 ### Ingredients
+Pro zapsání ingrediencí použitých v receptu (v bodech).
 ### Steps
+Postup přípravy receptu (v bodech).
 ### Notes
+Zvláštn poznámky a postřehy k receptu.
 ### Challenges
+Zobrazení, zda se recept nacházel v nějaké výzvě a zda byla splněna.
+
 Recept lze editovat po kliknutí na ikonu tužky pod pravým dolním rohem fotografie receptu. Vedle ikony tužky se nachází ikona srdce sloužící pro uložení receptu do Favorites.Vedle ikony srdce ještě leží ikona hodin s časem přípravy receptu. 
 ## Challenges
 V sekci Challenges se nachází týdenní a denní výzvy, které může uživatel plnit a ozvláštnit si tím každodenní vaření a vyzkouší nové recepty. Výzvy si může navolit uživatel nebo mohou být vybrány aplikací (speciální pokrmy např. na Velikonoce či Štědrovečerní večeři).
