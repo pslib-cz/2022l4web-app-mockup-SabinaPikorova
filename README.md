@@ -53,6 +53,10 @@ Postup přípravy receptu (v bodech).
 Pro zápis poznámek k receptu.
 ### Challenges
 Slouží k zobrazení, zda se recept nachází v nějaké výzvě a zda byla splněna. Pokud byla splněna, lze u této výzvy zaškrtnout čvereček (vyplní se barvou).
+<p align="left">
+<img src="https://github.com/pslib-cz/2022l4web-app-mockup-SabinaPikorova/blob/12863986ce9d91583addee373eb87b3551495fab/Recipe_page.png" width="200">
+</p>
+
 ## Challenges
 V sekci Challenges se nachází týdenní a denní výzvy, které může uživatel plnit a ozvláštnit si tím každodenní vaření a vyzkoušit nové recepty.
 <p align="left">
