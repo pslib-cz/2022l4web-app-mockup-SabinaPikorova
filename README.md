@@ -35,6 +35,10 @@ Obsahuje filtr s odkazy do všech kategorií s recepty, do Favorites a Challenge
 
 ## Searchbar 
 Searchbar se nachází v horní části obrazovky, pod hamburger menu, na každé stránce. Lze pomocí něj vyhledávat mezi všemi recepty.
+<p align="left">
+<img src="https://github.com/pslib-cz/2022l4web-app-mockup-SabinaPikorova/blob/2345391f925c25fc679685bf5bfc015fc1aaca8b/Searchbar.png" width="200">
+</p>
+
 ## Kategorie receptů
 Filtrací receptů podle kategorií (v hamburger menu) se uživately zobrazí pouze recepty z určitého okruhu (např. Sweet > cookies).
 Recepty lze ukládat do Favorites kliknutím na srdce v pravém horním rohu jejich náhledového obrázku.
