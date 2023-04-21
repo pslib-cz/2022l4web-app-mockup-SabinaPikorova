@@ -6,7 +6,8 @@ Aplikace by podle návrhu ve Figmě měla vypadat <a href="https://www.figma.com
 2. Možnost třídění a vyhledávání receptů pomocí filtrů (například Sweet, Sour, Favourites,...)
 3. Plnění kuchařských výzev
 ## Login page
-Při spušetění aplikace se uživateli nejprve zobrazí obrazovka s logem aplikace, poli na vyplnění přihlašovacích údajů nebo pro regitraci nového uživatele a buttony Log in (přihlášení uživatele) a Sign in (registrace uživatele). 
+Při spušetění aplikace se uživateli nejprve zobrazí obrazovka s logem aplikace, poli na vyplnění přihlašovacích údajů nebo pro regitraci nového uživatele a buttony Log in (přihlášení uživatele) a Sign in (registrace uživatele).
+![Alt text](/path/to/img.jpg)
 ## Landing page
 Hlavni stránka sloužící pro orientaci v aplikaci.
 Největší prostor na ní zaujímají náhledy na recepty v kategorii Favorites. Pod nimi se nachází další podkategorie s menšími náhledy.
