@@ -30,7 +30,7 @@ Obsahuje filtr s odkazy do všech kategorií s recepty, do Favorites a Challenge
 </p>
 
 <p align="left">
-<img src="https://github.com/pslib-cz/2022l4web-app-mockup-SabinaPikorova/blob/b411020d80bde3808c820ce94a525c07e2714939/Hamburger-menu.png" width="200">
+<img src="https://github.com/pslib-cz/2022l4web-app-mockup-SabinaPikorova/blob/56314f6a3bf5a9f60a8d82af9ba6456b66f1e2be/Hamburger-menu.png" width="200">
 </p>
 
 ## Searchbar 
