@@ -7,7 +7,7 @@ Aplikace by podle návrhu ve Figmě měla vypadat <a href="https://www.figma.com
 3. Plnění kuchařských výzev
 ## Login page
 Při spušetění aplikace se uživateli nejprve zobrazí obrazovka s logem aplikace, poli na vyplnění přihlašovacích údajů nebo pro regitraci nového uživatele a buttony Log in (přihlášení uživatele) a Sign in (registrace uživatele).
-![Alt text](/path/to/img.jpg)
+![Alt text](https://github.com/pslib-cz/2022l4web-app-mockup-SabinaPikorova/blob/b411020d80bde3808c820ce94a525c07e2714939/Login_page.png) 
 ## Landing page
 Hlavni stránka sloužící pro orientaci v aplikaci.
 Největší prostor na ní zaujímají náhledy na recepty v kategorii Favorites. Pod nimi se nachází další podkategorie s menšími náhledy.
